@@ -1,0 +1,480 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1563433966054" stop="1563434032904">
+  <name>test02_address</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1563433966054" status="passed" stop="1563434030967">
+      <name>TestAddress.test_post_address[\u81e7\u4e09-13324225678-\u5e7f\u4e1c\u7701-\u6e5b\u6c5f\u5e02-\u5761\u5934\u533a-XXX\u8857200\u53f7-100080]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12356-MainThread"/>
+        <label name="host" value="LAPTOP-IV4QGNR1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563433966057" status="passed" stop="1563433999144">
+          <name>初始化driver操作</name>
+          <title>初始化driver操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1563433999144" status="passed" stop="1563433999144">
+          <name>获取PageLogin对象操作</name>
+          <title>获取PageLogin对象操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1563433999144" status="passed" stop="1563434001589">
+          <name>点击 我 操作</name>
+          <title>点击 我 操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563433999144" status="passed" stop="1563434001589">
+              <name>点击方法操作</name>
+              <title>点击方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563433999144" status="passed" stop="1563434001564">
+                  <name>查找元素操作</name>
+                  <title>查找元素操作</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434001589" status="passed" stop="1563434004283">
+          <name>点击 已有账号，去登陆 操作</name>
+          <title>点击 已有账号，去登陆 操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434001589" status="passed" stop="1563434004283">
+              <name>点击方法操作</name>
+              <title>点击方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434001589" status="passed" stop="1563434003644">
+                  <name>查找元素操作</name>
+                  <title>查找元素操作</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434004283" status="passed" stop="1563434005930">
+          <name>输入用户名操作</name>
+          <title>输入用户名操作</title>
+          <attachments>
+            <attachment source="63cddc2f-76c7-441e-a0fb-66c2bb4641c2-attachment.txt" title="用户名:" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1563434004284" status="passed" stop="1563434005930">
+              <name>输入方法操作</name>
+              <title>输入方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434004284" status="passed" stop="1563434004861">
+                  <name>查找元素操作</name>
+                  <title>查找元素操作</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434005930" status="passed" stop="1563434006958">
+          <name>输入密码操作</name>
+          <title>输入密码操作</title>
+          <attachments>
+            <attachment source="eefa4473-9ecd-4157-b462-02fa40415ef7-attachment.txt" title="密码:" type="text/plain"/>
+          </attachments>
+          <steps>
+            <step start="1563434005930" status="passed" stop="1563434006958">
+              <name>输入方法操作</name>
+              <title>输入方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434005930" status="passed" stop="1563434006437">
+                  <name>查找元素操作</name>
+                  <title>查找元素操作</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434006958" status="passed" stop="1563434007482">
+          <name>点击登录按钮操作</name>
+          <title>点击登录按钮操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434006958" status="passed" stop="1563434007482">
+              <name>点击方法操作</name>
+              <title>点击方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434006958" status="passed" stop="1563434007461">
+                  <name>查找元素操作</name>
+                  <title>查找元素操作</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434007482" status="passed" stop="1563434011116">
+          <name>点击设置按钮操作</name>
+          <title>点击设置按钮操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434007482" status="passed" stop="1563434011116">
+              <name>点击方法操作</name>
+              <title>点击方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434007482" status="passed" stop="1563434010474">
+                  <name>查找元素操作</name>
+                  <title>查找元素操作</title>
+                  <attachments/>
+                  <steps/>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434011116" status="passed" stop="1563434013516">
+          <name>点击方法操作</name>
+          <title>点击方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434011116" status="passed" stop="1563434012683">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434013516" status="passed" stop="1563434013516">
+          <name>初始化driver操作</name>
+          <title>初始化driver操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1563434013517" status="passed" stop="1563434015534">
+          <name>点击方法操作</name>
+          <title>点击方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434013517" status="passed" stop="1563434015485">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434015534" status="passed" stop="1563434019548">
+          <name>输入方法操作</name>
+          <title>输入方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434015534" status="passed" stop="1563434017476">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434019548" status="passed" stop="1563434021130">
+          <name>输入方法操作</name>
+          <title>输入方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434019548" status="passed" stop="1563434020064">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434021130" status="passed" stop="1563434021666">
+          <name>点击方法操作</name>
+          <title>点击方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434021130" status="passed" stop="1563434021647">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434021666" status="passed" stop="1563434023705">
+          <name>查找元素操作</name>
+          <title>查找元素操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1563434023742" status="passed" stop="1563434024557">
+          <name>查找元素操作</name>
+          <title>查找元素操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1563434024596" status="passed" stop="1563434025420">
+          <name>查找元素操作</name>
+          <title>查找元素操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1563434025443" status="passed" stop="1563434027131">
+          <name>输入方法操作</name>
+          <title>输入方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434025443" status="passed" stop="1563434026067">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434027131" status="passed" stop="1563434028711">
+          <name>输入方法操作</name>
+          <title>输入方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434027131" status="passed" stop="1563434027650">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434028711" status="passed" stop="1563434029213">
+          <name>点击方法操作</name>
+          <title>点击方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434028711" status="passed" stop="1563434028779">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434029213" status="passed" stop="1563434029731">
+          <name>点击方法操作</name>
+          <title>点击方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434029213" status="passed" stop="1563434029285">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434030968" status="passed" stop="1563434032257">
+          <name>关闭driver操作</name>
+          <title>关闭driver操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1563434032290" status="failed" stop="1563434032793">
+      <name>TestAddress.test_address_compile[\u674e\u56db-12424228888-\u5e7f\u4e1c\u7701-\u5e7f\u5dde\u5e02-\u6d77\u73e0\u533a-XXXX\u8857199\u53f7-100081-\u4fdd\u5b58\u6210\u529f]</name>
+      <failure>
+        <message>KeyError: 'error'</message>
+        <stack-trace>self = &lt;test02_address.TestAddress object at 0x03F33F10&gt;, name2 = '李四'
+phone2 = '12424228888', pro2 = '广东省', city2 = '广州市', dis2 = '海珠区'
+info2 = 'XXXX街199号', code2 = '100081', expect2 = '保存成功'
+
+    @pytest.mark.run(order=2)
+    @pytest.mark.parametrize("name2, phone2, pro2, city2, dis2, info2, code2, expect2", get_data("put"))
+    def test_address_compile(self, name2, phone2, pro2, city2, dis2, info2, code2, expect2):
+&gt;       self.page_address.page_address_compile(name2, phone2, pro2, city2, dis2, info2, code2)
+
+scripts\test02_address.py:68: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+page\page_address.py:104: in page_address_compile
+    self.page_click_compile()
+page\page_address.py:60: in page_click_compile
+    self.base_click(page.address_compile)
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:24: in base_click
+    self.base_find(loc).click()
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:15: in base_find
+    return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll).until(lambda x: x.find_element(*loc))
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\support\wait.py:71: in until
+    value = method(self._driver)
+base\base.py:15: in &lt;lambda&gt;
+    return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll).until(lambda x: x.find_element(*loc))
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\remote\webdriver.py:712: in find_element
+    {'using': by, 'value': value})['value']
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\remote\webdriver.py:201: in execute
+    self.error_handler.check_response(response)
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\appium\webdriver\errorhandler.py:24: in check_response
+    super(MobileErrorHandler, self).check_response(response)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;appium.webdriver.errorhandler.MobileErrorHandler object at 0x03F17D50&gt;
+response = {'status': 404, 'value': '{"status":6,"value":{"message":"A session is either terminated or not started"},"sessionId":"fcd24ffc-23d3-45ed-8e55-630a6f16306f"}'}
+
+    def check_response(self, response):
+        """
+            Checks that a JSON response from the WebDriver does not have an error.
+    
+            :Args:
+             - response - The JSON response from the WebDriver server as a dictionary
+               object.
+    
+            :Raises: If the response contains an error message.
+            """
+        status = response.get('status', None)
+        if status is None or status == ErrorCode.SUCCESS:
+            return
+    
+        value = None
+        message = response.get("message", "")
+        screen = response.get("screen", "")
+        stacktrace = None
+        if isinstance(status, int):
+            value_json = response.get('value', None)
+            if value_json and isinstance(value_json, basestring):
+                import json
+                value = json.loads(value_json)
+&gt;               status = value['error']
+E               KeyError: 'error'
+
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py:103: KeyError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12356-MainThread"/>
+        <label name="host" value="LAPTOP-IV4QGNR1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563434032293" status="failed" stop="1563434032308">
+          <name>点击方法操作</name>
+          <title>点击方法操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434032293" status="failed" stop="1563434032308">
+              <name>查找元素操作</name>
+              <title>查找元素操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434032795" status="passed" stop="1563434032795">
+          <name>关闭driver操作</name>
+          <title>关闭driver操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1563434032801" status="failed" stop="1563434032904">
+      <name>TestAddress.test_address_delete_all</name>
+      <failure>
+        <message>KeyError: 'error'</message>
+        <stack-trace>self = &lt;test02_address.TestAddress object at 0x005DD2F0&gt;
+
+    @pytest.mark.run(order=3)
+    def test_address_delete_all(self):
+&gt;       self.page_address.page_delete_all()
+
+scripts\test02_address.py:97: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+page\page_address.py:124: in page_delete_all
+    for i in range(len(self.page_get_address_list())):
+page\page_address.py:56: in page_get_address_list
+    return [i.text for i in self.base_finds(page.address_info)]
+base\base.py:19: in base_finds
+    return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll).until(lambda x: x.find_elements(*loc))
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\support\wait.py:71: in until
+    value = method(self._driver)
+base\base.py:19: in &lt;lambda&gt;
+    return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll).until(lambda x: x.find_elements(*loc))
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\remote\webdriver.py:739: in find_elements
+    {'using': by, 'value': value})['value']
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\remote\webdriver.py:201: in execute
+    self.error_handler.check_response(response)
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\appium\webdriver\errorhandler.py:24: in check_response
+    super(MobileErrorHandler, self).check_response(response)
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;appium.webdriver.errorhandler.MobileErrorHandler object at 0x03F17D50&gt;
+response = {'status': 404, 'value': '{"status":6,"value":{"message":"A session is either terminated or not started"},"sessionId":"fcd24ffc-23d3-45ed-8e55-630a6f16306f"}'}
+
+    def check_response(self, response):
+        """
+            Checks that a JSON response from the WebDriver does not have an error.
+    
+            :Args:
+             - response - The JSON response from the WebDriver server as a dictionary
+               object.
+    
+            :Raises: If the response contains an error message.
+            """
+        status = response.get('status', None)
+        if status is None or status == ErrorCode.SUCCESS:
+            return
+    
+        value = None
+        message = response.get("message", "")
+        screen = response.get("screen", "")
+        stacktrace = None
+        if isinstance(status, int):
+            value_json = response.get('value', None)
+            if value_json and isinstance(value_json, basestring):
+                import json
+                value = json.loads(value_json)
+&gt;               status = value['error']
+E               KeyError: 'error'
+
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\remote\errorhandler.py:103: KeyError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12356-MainThread"/>
+        <label name="host" value="LAPTOP-IV4QGNR1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563434032905" status="passed" stop="1563434032905">
+          <name>关闭driver操作</name>
+          <title>关闭driver操作</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

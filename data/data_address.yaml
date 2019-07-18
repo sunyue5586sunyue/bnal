@@ -1,0 +1,17 @@
+post_address:
+  name: "臧三"
+  phone: "13324225678"
+  pro: "广东省"
+  city: "湛江市"
+  dis: "坡头区"
+  info: "XXX街200号"
+  code: "100080"
+put_address:
+  name: "李四"
+  phone: "12424228888"
+  pro: "广东省"
+  city: "广州市"
+  dis: "海珠区"
+  info: "XXXX街199号"
+  code: "100081"
+  expect: "保存成功"

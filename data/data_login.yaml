@@ -1,0 +1,40 @@
+bnal_login001:
+  username: "17624227027"
+  pwd: "199402115586"
+  nickname: "ceshi_12"
+  expect_toast: null
+#bnal_login002:
+#  username: " 17624227027 "
+#  pwd: "199402115586"
+#  nickname: "ceshi_12"
+#  expect_toast: null
+#bnal_login003:
+#  username: "ceshi_12"
+#  pwd: "199402115586"
+#  nickname: "ceshi_12"
+#  expect_toast: null
+#bnal_login004:
+#  username: " ceshi_12 "
+#  pwd: "199402115586"
+#  nickname: "ceshi_12"
+#  expect_toast: null
+#bnal_login007:
+#  username: "176242270277"
+#  pwd: "199402115586"
+#  nickname: null
+#  expect_toast: "此用户不存在"
+#bnal_login008:
+#  username: "17624227026"
+#  pwd: "199402115586"
+#  nickname: null
+#  expect_toast: "此用户不存在"
+bnal_login009:
+  username: "17624227027"
+  pwd: "1994021155866"
+  nickname: null
+  expect_toast: "密码错误"
+#bnal_login0010:
+#  username: "ceshi_122"
+#  pwd: "199402115586"
+#  nickname: null
+#  expect_toast: "此用户 存在"

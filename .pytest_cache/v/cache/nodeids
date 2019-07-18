@@ -1,0 +1,7 @@
+[
+  "scripts/test01_login.py::TestLogin::()::test_login[17624227027-199402115586-ceshi_12-None]",
+  "scripts/test01_login.py::TestLogin::()::test_login[17624227027-1994021155866-None-\\u5bc6\\u7801\\u9519\\u8bef]",
+  "scripts/test02_address.py::TestAddress::()::test_post_address[\\u81e7\\u4e09-13324225678-\\u5e7f\\u4e1c\\u7701-\\u6e5b\\u6c5f\\u5e02-\\u5761\\u5934\\u533a-XXX\\u8857200\\u53f7-100080]",
+  "scripts/test02_address.py::TestAddress::()::test_address_compile[\\u674e\\u56db-12424228888-\\u5e7f\\u4e1c\\u7701-\\u5e7f\\u5dde\\u5e02-\\u6d77\\u73e0\\u533a-XXXX\\u8857199\\u53f7-100081-\\u4fdd\\u5b58\\u6210\\u529f]",
+  "scripts/test02_address.py::TestAddress::()::test_address_delete_all"
+]

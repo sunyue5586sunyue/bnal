@@ -1,0 +1,525 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1563434032907" stop="1563434105394">
+  <name>test01_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1563434032907" status="passed" stop="1563434095647">
+      <name>TestLogin.test_login[17624227027-199402115586-ceshi_12-None]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12356-MainThread"/>
+        <label name="host" value="LAPTOP-IV4QGNR1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563434032917" status="passed" stop="1563434068413">
+          <name>初始化操作</name>
+          <title>初始化操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434032917" status="passed" stop="1563434061656">
+              <name>初始化driver操作</name>
+              <title>初始化driver操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1563434061656" status="passed" stop="1563434061656">
+              <name>获取PageLogin对象操作</name>
+              <title>获取PageLogin对象操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1563434061656" status="passed" stop="1563434063570">
+              <name>点击 我 操作</name>
+              <title>点击 我 操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434061656" status="passed" stop="1563434063570">
+                  <name>点击方法操作</name>
+                  <title>点击方法操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434061656" status="passed" stop="1563434063547">
+                      <name>查找元素操作</name>
+                      <title>查找元素操作</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434063570" status="passed" stop="1563434068413">
+              <name>点击 已有账号，去登陆 操作</name>
+              <title>点击 已有账号，去登陆 操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434063570" status="passed" stop="1563434068413">
+                  <name>点击方法操作</name>
+                  <title>点击方法操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434063570" status="passed" stop="1563434067698">
+                      <name>查找元素操作</name>
+                      <title>查找元素操作</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434068414" status="passed" stop="1563434095646">
+          <name>登录测试方法</name>
+          <title>登录测试方法</title>
+          <attachments/>
+          <steps>
+            <step start="1563434068414" status="passed" stop="1563434071663">
+              <name>组合业务方法--登录操作</name>
+              <title>组合业务方法--登录操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434068414" status="passed" stop="1563434070106">
+                  <name>输入用户名操作</name>
+                  <title>输入用户名操作</title>
+                  <attachments>
+                    <attachment source="af779b4e-8c12-4e95-b6fd-92b0cf6d1cdb-attachment.txt" title="用户名:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1563434068414" status="passed" stop="1563434070106">
+                      <name>输入方法操作</name>
+                      <title>输入方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434068414" status="passed" stop="1563434069078">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434070107" status="passed" stop="1563434071140">
+                  <name>输入密码操作</name>
+                  <title>输入密码操作</title>
+                  <attachments>
+                    <attachment source="b2df6479-f3b9-4d86-99aa-32ab6a86e8f1-attachment.txt" title="密码:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1563434070107" status="passed" stop="1563434071140">
+                      <name>输入方法操作</name>
+                      <title>输入方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434070107" status="passed" stop="1563434070616">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434071140" status="passed" stop="1563434071663">
+                  <name>点击登录按钮操作</name>
+                  <title>点击登录按钮操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434071140" status="passed" stop="1563434071663">
+                      <name>点击方法操作</name>
+                      <title>点击方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434071140" status="passed" stop="1563434071643">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434071663" status="passed" stop="1563434075313">
+              <name>获取昵称操作</name>
+              <title>获取昵称操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434071663" status="passed" stop="1563434075313">
+                  <name>获取文本信息操作</name>
+                  <title>获取文本信息操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434071663" status="passed" stop="1563434074620">
+                      <name>查找元素操作</name>
+                      <title>查找元素操作</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434075313" status="passed" stop="1563434092582">
+              <name>退出登录组合业务方法操作</name>
+              <title>退出登录组合业务方法操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434075313" status="passed" stop="1563434075383">
+                  <name>点击设置按钮操作</name>
+                  <title>点击设置按钮操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434075313" status="passed" stop="1563434075383">
+                      <name>点击方法操作</name>
+                      <title>点击方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434075313" status="passed" stop="1563434075362">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434075383" status="passed" stop="1563434090842">
+                  <name>拖拽操作</name>
+                  <title>拖拽操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434075383" status="passed" stop="1563434090842">
+                      <name>拖拽操作</name>
+                      <title>拖拽操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434075383" status="passed" stop="1563434077360">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                        <step start="1563434077360" status="passed" stop="1563434077398">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434090842" status="passed" stop="1563434091500">
+                  <name>点击退出按钮操作</name>
+                  <title>点击退出按钮操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434090842" status="passed" stop="1563434091500">
+                      <name>点击方法操作</name>
+                      <title>点击方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434090842" status="passed" stop="1563434091479">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434091500" status="passed" stop="1563434092582">
+                  <name>点击确定退出按钮操作</name>
+                  <title>点击确定退出按钮操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434091500" status="passed" stop="1563434092582">
+                      <name>点击方法操作</name>
+                      <title>点击方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434091500" status="passed" stop="1563434092545">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434092582" status="passed" stop="1563434093816">
+              <name>点击 我 操作</name>
+              <title>点击 我 操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434092582" status="passed" stop="1563434093816">
+                  <name>点击方法操作</name>
+                  <title>点击方法操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434092582" status="passed" stop="1563434093783">
+                      <name>查找元素操作</name>
+                      <title>查找元素操作</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434093816" status="passed" stop="1563434095646">
+              <name>点击 已有账号，去登陆 操作</name>
+              <title>点击 已有账号，去登陆 操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434093817" status="passed" stop="1563434095646">
+                  <name>点击方法操作</name>
+                  <title>点击方法操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434093817" status="passed" stop="1563434095586">
+                      <name>查找元素操作</name>
+                      <title>查找元素操作</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1563434095778" status="failed" stop="1563434105394">
+      <name>TestLogin.test_login[17624227027-1994021155866-None-\u5bc6\u7801\u9519\u8bef]</name>
+      <failure>
+        <message>TimeoutException: Message: 
+</message>
+        <stack-trace>self = &lt;test01_login.TestLogin object at 0x005D5D70&gt;, username = '17624227027'
+pwd = '1994021155866', nickname = None, expect_toast = '密码错误'
+
+    @allure.step(title='登录测试方法')
+    @pytest.mark.parametrize(("username, pwd, nickname, expect_toast"), get_data())
+    def test_login(self, username, pwd, nickname, expect_toast):
+        # 调用登录业务方法
+        self.login.page_login(username, pwd)
+        # 正向
+        if nickname:
+            try:
+                # 断言 昵称
+                assert nickname == self.login.page_get_nickname()
+            except:
+                # 截图
+                self.login.page_get_image()
+                # 将失败截图写入报告
+                self.login.base_file_write_allure()
+                raise
+            finally:
+                # 退出登录
+                self.login.page_logout()
+                # 点击 我
+                self.login.page_click_me()
+                # 点击 已有账号，去登录
+                self.login.page_account_link()
+    
+        # 逆向
+        else:
+            try:
+                # 断言  toast
+&gt;               assert expect_toast in self.login.page_get_err_info(expect_toast)
+
+scripts\test01_login.py:63: 
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+page\page_login.py:64: in page_get_err_info
+    return self.base_get_toast(msg)
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:45: in base_get_toast
+    return self.base_find(loc, timeout=5, poll=0.2).text
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\allure\common.py:62: in impl
+    return func(*a, **kw)
+base\base.py:15: in base_find
+    return WebDriverWait(self.driver, timeout=timeout, poll_frequency=poll).until(lambda x: x.find_element(*loc))
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+self = &lt;selenium.webdriver.support.wait.WebDriverWait (session="488011dd-a356-4d98-b3e5-6f0b9e5bdfc4")&gt;
+method = &lt;function Base.base_find.&lt;locals&gt;.&lt;lambda&gt; at 0x005B77C8&gt;, message = ''
+
+    def until(self, method, message=''):
+        """Calls the method provided with the driver as an argument until the \
+            return value is not False."""
+        screen = None
+        stacktrace = None
+    
+        end_time = time.time() + self._timeout
+        while True:
+            try:
+                value = method(self._driver)
+                if value:
+                    return value
+            except self._ignored_exceptions as exc:
+                screen = getattr(exc, 'screen', None)
+                stacktrace = getattr(exc, 'stacktrace', None)
+            time.sleep(self._poll)
+            if time.time() &gt; end_time:
+                break
+&gt;       raise TimeoutException(message, screen, stacktrace)
+E       selenium.common.exceptions.TimeoutException: Message:
+
+c:\users\super.w\appdata\local\programs\python\python36-32\lib\site-packages\selenium\webdriver\support\wait.py:80: TimeoutException</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12356-MainThread"/>
+        <label name="host" value="LAPTOP-IV4QGNR1"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1563434095780" status="failed" stop="1563434105342">
+          <name>登录测试方法</name>
+          <title>登录测试方法</title>
+          <attachments/>
+          <steps>
+            <step start="1563434095780" status="passed" stop="1563434098818">
+              <name>组合业务方法--登录操作</name>
+              <title>组合业务方法--登录操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434095780" status="passed" stop="1563434097212">
+                  <name>输入用户名操作</name>
+                  <title>输入用户名操作</title>
+                  <attachments>
+                    <attachment source="ff68994a-efd8-48e5-8e4c-b1cff0db6937-attachment.txt" title="用户名:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1563434095780" status="passed" stop="1563434097212">
+                      <name>输入方法操作</name>
+                      <title>输入方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434095780" status="passed" stop="1563434096145">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434097212" status="passed" stop="1563434098277">
+                  <name>输入密码操作</name>
+                  <title>输入密码操作</title>
+                  <attachments>
+                    <attachment source="ef35b6a1-18a6-4c5c-bae4-1ba0c9da67c8-attachment.txt" title="密码:" type="text/plain"/>
+                  </attachments>
+                  <steps>
+                    <step start="1563434097212" status="passed" stop="1563434098277">
+                      <name>输入方法操作</name>
+                      <title>输入方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434097212" status="passed" stop="1563434097731">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+                <step start="1563434098277" status="passed" stop="1563434098818">
+                  <name>点击登录按钮操作</name>
+                  <title>点击登录按钮操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434098277" status="passed" stop="1563434098818">
+                      <name>点击方法操作</name>
+                      <title>点击方法操作</title>
+                      <attachments/>
+                      <steps>
+                        <step start="1563434098277" status="passed" stop="1563434098797">
+                          <name>查找元素操作</name>
+                          <title>查找元素操作</title>
+                          <attachments/>
+                          <steps/>
+                        </step>
+                      </steps>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434098818" status="failed" stop="1563434103835">
+              <name>获取 错误提示消息操作</name>
+              <title>获取 错误提示消息操作</title>
+              <attachments/>
+              <steps>
+                <step start="1563434098818" status="failed" stop="1563434103835">
+                  <name>获取toast消息操作</name>
+                  <title>获取toast消息操作</title>
+                  <attachments/>
+                  <steps>
+                    <step start="1563434098818" status="failed" stop="1563434103835">
+                      <name>查找元素操作</name>
+                      <title>查找元素操作</title>
+                      <attachments/>
+                      <steps/>
+                    </step>
+                  </steps>
+                </step>
+              </steps>
+            </step>
+            <step start="1563434103835" status="passed" stop="1563434105337">
+              <name>截图操作</name>
+              <title>截图操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+            <step start="1563434105337" status="passed" stop="1563434105342">
+              <name>将失败截图写入报告操作</name>
+              <title>将失败截图写入报告操作</title>
+              <attachments>
+                <attachment source="f0b11543-52f1-4ccc-a3ff-b0b97ce902d6-attachment.png" title="断言失败原因：" type="image/png"/>
+              </attachments>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+        <step start="1563434105395" status="passed" stop="1563434106440">
+          <name>收尾操作</name>
+          <title>收尾操作</title>
+          <attachments/>
+          <steps>
+            <step start="1563434105395" status="passed" stop="1563434106440">
+              <name>关闭driver操作</name>
+              <title>关闭driver操作</title>
+              <attachments/>
+              <steps/>
+            </step>
+          </steps>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
